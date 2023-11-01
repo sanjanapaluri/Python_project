@@ -1,13 +1,16 @@
 Task 1 : Perform Data Cleaning
 Clean a dataset by removing missing values and outliers.
+
 Dataset : train.csv
 
 Task 2 : Calculate summary statistics
 Calculate summary statistics (mean, median, mode, standard deviation) for a dataset
+
 Dataset : train.csv
 
 Task 3 : Visualization using Histogram
 Create a histogram or bar chart to visualize the distribution of data in a dataset
+
 Dataset : iris.csv
 
 In Task 3 we are having outliers so we have to remove that 
