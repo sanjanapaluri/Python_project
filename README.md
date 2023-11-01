@@ -7,3 +7,7 @@ The goal of this project is to explore and analyze the IMDB dataset to generate 
 ### 2. [Instagram thread](https://github.com/sanjanapaluri/Python_project/tree/main/Instagram%20thread)
 
 The Threads, an Instagram App Reviews dataset is a comprehensive collection of user reviews from the Threads mobile app on Google Play Store & App Store, capturing valuable insights and sentiments. The dataset enables the understanding of user satisfaction, evaluation of app performance, and identification of emerging patterns.
+
+### 3. [TechnoHacks](https://github.com/sanjanapaluri/Python_project/tree/main/TechnoHacks)
+
+This is a virtual internship where I done tarnsformed, cleaned and done some statistical analysis ,visualized using python libraries 
